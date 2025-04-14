@@ -9,10 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>in.aashu</groupId>
-    <artifactId>DataJpa01</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>DataJpa01</name>
-    <description>DataJpa01</description>
     <url/>
     <licenses>
         <license/>
